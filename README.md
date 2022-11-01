@@ -5,7 +5,7 @@
   Add your open source license, GitHub uses Creative Commons Attribution 4.0 International.
 -->
 
-![example workflow](https://github.com/ganeswararaosundarapu/introdution-to-github/actions/workflows/main.yml/badge.svg)
+![example workflow](https://github.com/ganeswararaosundarapu/introduction-to-github/actions/workflows/0-start.yml/badge.svg)
 
 # Hello GitHub Actions
 
